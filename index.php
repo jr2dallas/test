@@ -2,4 +2,4 @@
 
 echo "Hello world";
 
-die('ok');
+die("ok");
